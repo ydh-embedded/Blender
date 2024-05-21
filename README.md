@@ -30,5 +30,10 @@
 
 .
 
-        
+## Update des sketchers
+
+        cd /usr/share/blender/4.1/scripts/addons/CAD_Sketcher/
+.
+
+        sudo git pull
 

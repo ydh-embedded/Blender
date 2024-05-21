@@ -30,5 +30,17 @@
 
 .
 
-        
+## Update des sketchers
 
+        cd /usr/share/blender/4.1/scripts/addons/CAD_Sketcher/
+.
+
+        sudo git pull
+
+.
+
+````ps
+[Ninja@C01127 CAD_Sketcher]$ sudo git pull
+[sudo] Passwort für Ninja:
+Sketcher bereits aktuell
+````

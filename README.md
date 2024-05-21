@@ -37,3 +37,10 @@
 
         sudo git pull
 
+.
+
+````ps
+[Ninja@C01127 CAD_Sketcher]$ sudo git pull
+[sudo] Passwort für Ninja:
+Sketcher bereits aktuell
+````
